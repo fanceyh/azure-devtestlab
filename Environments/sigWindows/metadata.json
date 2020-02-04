@@ -1,6 +1,6 @@
 {
-  "itemDisplayName": "SharedImageWindows",
+  "itemDisplayName": "SIGWindows",
   "description": "Create a VM using personal shared image",
-  "githubUsername": "Callen",
+  "githubUsername": "Fancey",
   "summary": "Create a VM using personal shared image"
 }
