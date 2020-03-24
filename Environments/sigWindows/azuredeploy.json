@@ -143,7 +143,7 @@
                         }
                     },
                     "imageReference": {
-                        "id": "/subscriptions/55d19c66-7670-4546-be27-ffadf8879965/resourceGroups/CTI-LabTestResource/providers/Microsoft.Compute/galleries/ctisig/images/windowsig-WindowsVersion001-0"
+                        "id": "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/callenml0210-galleryRg/providers/Microsoft.Compute/galleries/ctitestingsig/images/win1909-template-win1909-base-0"
                     }
                 },
                 "networkProfile": {
