@@ -143,7 +143,7 @@
                         }
                     },
                     "imageReference": {
-                        "id": "/subscriptions/e605a3bc-ee4e-4c7a-9709-1868a28b1d4d/resourceGroups/ctdev-galleryRg/providers/Microsoft.Compute/galleries/ctidevsig/images/winsig-template-medium-CentSIG-0"
+                        "id": "/subscriptions/e605a3bc-ee4e-4c7a-9709-1868a28b1d4d/resourceGroups/ctidev-galleryRg/providers/Microsoft.Compute/galleries/ctidevsig/images/win1903-win1903-0"
                     }
                 },
                 "networkProfile": {
