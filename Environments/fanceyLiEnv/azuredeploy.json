@@ -143,7 +143,7 @@
                         }
                     },
                     "imageReference": {
-                        "/subscriptions/e605a3bc-ee4e-4c7a-9709-1868a28b1d4d/resourceGroups/CTITesting/providers/Microsoft.Compute/galleries/0520devSig/images/liDef"
+                        "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/2020fancey/providers/Microsoft.Compute/galleries/0108fanceysig/images/sigDefinitionLinux"
                     }
                 },
                 "networkProfile": {
