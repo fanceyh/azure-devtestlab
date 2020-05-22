@@ -143,7 +143,7 @@
                         }
                     },
                     "imageReference": {
-                        "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/2020fancey/providers/Microsoft.Compute/galleries/0108fanceysig/images/sigDefinitionLinux"
+                        "id": "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/2020fancey/providers/Microsoft.Compute/galleries/0108fanceysig/images/sigDefinitionLinux"
                     }
                 },
                 "networkProfile": {
