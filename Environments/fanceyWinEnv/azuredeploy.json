@@ -143,7 +143,7 @@
                         }
                     },
                     "imageReference": {
-                        "id": "/subscriptions/e605a3bc-ee4e-4c7a-9709-1868a28b1d4d/resourceGroups/CTI-RG/providers/Microsoft.Compute/galleries/fanceyDevSig/images/winDef"
+                        "id": "/subscriptions/e605a3bc-ee4e-4c7a-9709-1868a28b1d4d/resourceGroups/CTI-RG/providers/Microsoft.Compute/galleries/fancey0828DevSig/images/winGeneralDef"
                     }
                 },
                 "networkProfile": {
